@@ -8,4 +8,9 @@
  - `"git add"` permet d'ajouter des fichiers au dépôt local. 
  - `"git pull"` permet de récupérer les fichiers du dépôt en ligne vers le dépôt local.
 
+La branche est une fonctionnalité de Git qui permet aux utilisateurs de développer leur code de manière isolée des autres. 
+Les utilisateurs peuvent créer une nouvelle branche à partir de leur code principal (la « branche master »), 
+puis travailler sur cette nouvelle branche sans affecter le code principal. 
+Les utilisateurs peuvent ensuite fusionner leur code de la branche avec la branche master une fois qu'ils ont terminé leur travail.
+
 voilà c'est tout pour le moment
