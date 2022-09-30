@@ -7,3 +7,5 @@
  - `"git clone"` permet de copier un dépôt en ligne vers le dépôt local. 
  - `"git add"` permet d'ajouter des fichiers au dépôt local. 
  - `"git pull"` permet de récupérer les fichiers du dépôt en ligne vers le dépôt local.
+
+voilà c'est tout pour le moment
