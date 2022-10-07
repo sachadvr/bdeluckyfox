@@ -5,10 +5,23 @@
 - @sachadvr
 - @lucasmaveau
 - @melenedufrenois
+- @theodadon
 
 c moi lucas
 c moi melene
 
+L'objectif est de faire un sprint agile de l'explication de github et gitlabs pour les personnes suivantes : Sacha, Theo, Mélène, Lucas. La répartition des tâches sera la suivante :
+
+Sacha : création du dépôt git sur github
+
+Theo : ajout des fichiers au dépôt
+
+Mélène : configuration des utilisateurs et des permissions
+
+Lucas : explication des commandes de base de git
+
+
+Tout le monde : test de l'explication et feedback
 
 ## Présentation
 GitHub est un service de développement de logiciels qui héberge des dépôts de codes source. GitLab est un service similaire, mais il offre des fonctionnalités supplémentaires telles que des outils de CI/CD et une gestion des utilisateurs.
@@ -27,3 +40,5 @@ Pour créer un dépôt sur GitHub, vous n'avez pas besoin de fournir autant d'in
 ## L'ajout des collaborateurs
 Une fois le dépôt créé, il y a une option pour ajouter des collabonateurs. Il faut simplement entrer le nom d'utilisateur de la personne que vous voulez ajouter et cliquer sur le bouton "Ajouter". Ce dernier doit accepter 
 Pour ajouter un collaborateur sur GitLab :Une fois le projet créé, il y a une option pour ajouter des collaborateurs. Il faut simplement entrer le nom d'utilisateur de la personne que vous voulez ajouter et cliquer sur le bouton "Ajouter".
+
+
