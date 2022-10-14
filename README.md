@@ -1,22 +1,14 @@
 # bdeluckyfox
 
 *Meilleur Repo c'est ici*
+VERSION: 1.1
+DATE: 14/10/2022
 
 - @sachadvr
 - @lucasmaveau
 - @melenedufrenois
 - @theodadon
 
-
-L'objectif est de faire un sprint agile de l'explication de github et gitlabs pour les personnes suivantes : Sacha, Theo, Mélène, Lucas. La répartition des tâches sera la suivante :
-
-Sacha : création du dépôt git sur github
-
-Theo : ajout des fichiers au dépôt
-
-Mélène : configuration des utilisateurs et des permissions
-
-Lucas : explication des commandes de base de git et explication du sprint agile
 
 ## Méthode du sprint agile
 La méthode du sprint agile est une méthode de développement de logiciels qui s'appuie sur une approche itérative et incrémentale des projets. Elle privilégie un cycle de développement court et intense, appelé « sprint », au cours duquel des logiciels fonctionnels sont livrés au client.Cette méthode est souvent associée à des méthodologies agiles telles que Scrum. 
@@ -61,43 +53,3 @@ Pour créer un dépôt sur GitHub, vous n'avez pas besoin de fournir autant d'in
 ## L'ajout des collaborateurs
 Une fois le dépôt créé, il y a une option pour ajouter des collaborateurs. Il faut simplement entrer le nom d'utilisateur de la personne que vous voulez ajouter et cliquer sur le bouton "Ajouter". Ce dernier doit accepter 
 Pour ajouter un collaborateur sur GitLab :Une fois le projet créé, il y a une option pour ajouter des collaborateurs. Il faut simplement entrer le nom d'utilisateur de la personne que vous voulez ajouter et cliquer sur le bouton "Ajouter".
-
-## Les commandes
-### Git merge:
-Git merge est une commande Git qui permet de fusionner deux branches Git. Cela signifie que vous pouvez prendre le code d'une autre branche et l'ajouter à votre branche actuelle. Cela peut être utile lorsque vous voulez fusionner le travail de plusieurs personnes sur différentes branches.
-
-Exemple:
-```
-git merge
-```
-### Git add:
-Git add est une commande Git qui permet d'ajouter des fichiers à un dépôt Git. Cela signifie que vous pouvez prendre des fichiers de votre ordinateur et les ajouter au code source d'un projet. Git add peut être utilisé pour ajouter des fichiers à un commit ou pour ajouter des fichiers à une branche.
-
-Exemple:
-```
-git add .
-git add nomdufichier
-```
-
-### Git push:
-Git push est une commande Git qui permet de publier des commits sur un dépôt Git. Cela signifie que vous pouvez prendre le code de votre ordinateur et le mettre en ligne sur un serveur Git. Git push peut être utilisé pour publier des commits sur une branche ou pour publier des commits sur un dépôt.
-
-Exemple:
-```
-git push -u
-```
-### Git pull:
-Git pull est une commande Git qui permet de récupérer des commits d'un dépôt Git. Cela signifie que vous pouvez prendre le code d'un serveur Git et le mettre sur votre ordinateur. Git pull peut être utilisé pour récupérer des commits d'une branche ou pour récupérer des commits d'un dépôt.
-
-Exemple:
-```
-git pull
-```
-### Git commit:
-Git commit est une commande Git qui permet de sauvegarder des modifications dans un dépôt Git. Cela signifie que vous pouvez prendre le code d'un projet et le sauvegarder dans un dépôt Git. Git commit peut être utilisé pour sauvegarder des modifications dans une branche ou pour sauvegarder des modifications dans un dépôt.
-
-Exemple:
-```
-git commit -m "nom du commit"
-git commit -am "nom du commit" (cela va faire la effectuer la commande git add . juste avant)
-```
