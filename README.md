@@ -18,9 +18,21 @@ Theo : ajout des fichiers au dépôt
 
 Mélène : configuration des utilisateurs et des permissions
 
-Lucas : explication des commandes de base de git
+Lucas : explication des commandes de base de git et explication du sprint agile
+
+## Méthode du sprint agile
+La méthode du sprint agile est une méthode de développement de logiciels qui s'appuie sur une approche itérative et incrémentale des projets. Elle privilégie un cycle de développement court et intense, appelé « sprint », au cours duquel des logiciels fonctionnels sont livrés au client.Cette méthode est souvent associée à des méthodologies agiles telles que Scrum. 
+
+1. Définir les objectifs du sprint
+
+2. Planifier les tâches du sprint en fonction des objectifs
+
+3. Exécuter les tâches du sprint
+
+4. Evaluer les résultats du sprint et ajuster les plans en conséquence
 
 
+--------------
 Tout le monde : test de l'explication et feedback
 
 ## Présentation
