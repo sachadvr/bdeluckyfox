@@ -7,8 +7,6 @@
 - @melenedufrenois
 - @theodadon
 
-c moi lucas
-c moi melene
 
 L'objectif est de faire un sprint agile de l'explication de github et gitlabs pour les personnes suivantes : Sacha, Theo, Mélène, Lucas. La répartition des tâches sera la suivante :
 
