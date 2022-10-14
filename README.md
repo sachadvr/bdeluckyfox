@@ -41,6 +41,17 @@ GitHub est un service de développement de logiciels qui héberge des dépôts d
 
 
 Pour créer un compte GitHub, rendez-vous sur le site Web du service et cliquez sur le bouton «S'inscrire». Vous devrez fournir une adresse e-mail et un mot de passe. Une fois que vous avez créé votre compte, vous pouvez créer un dépôt en cliquant sur le bouton «Nouveau». Vous devrez donner un nom à votre dépôt et décider si vous voulez le rendre privé ou public.
+
+```
+mkdir Repo
+cd Repo
+git init
+echo "Ajout du Readme" > README.md
+git add .
+git commit -m "premier commit"
+git remote add origin https://github.com/nomutilisateur/nomdurepo.git
+git push -u origin master
+```
 ## Notice d'utilisation de gitlabs
 Pour créer un compte GitLab, rendez-vous sur le site Web du service et cliquez sur le bouton «S'inscrire».
 
