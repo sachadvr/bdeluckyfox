@@ -50,21 +50,21 @@ La différence principale entre GitHub et GitLab est que GitHub est un service g
 Pour créer un dépôt sur GitHub, vous n'avez pas besoin de fournir autant d'informations que sur GitLab. Il suffit de fournir un nom et de décider si vous voulez le rendre privé ou public. GitHub offre une interface utilisateur plus simple que GitLab. GitLab offre une interface utilisateur plus complexe avec plus de fonctionnalités.
 
 ## L'ajout des collaborateurs
-Une fois le dépôt créé, il y a une option pour ajouter des collabonateurs. Il faut simplement entrer le nom d'utilisateur de la personne que vous voulez ajouter et cliquer sur le bouton "Ajouter". Ce dernier doit accepter 
+Une fois le dépôt créé, il y a une option pour ajouter des collaborateurs. Il faut simplement entrer le nom d'utilisateur de la personne que vous voulez ajouter et cliquer sur le bouton "Ajouter". Ce dernier doit accepter 
 Pour ajouter un collaborateur sur GitLab :Une fois le projet créé, il y a une option pour ajouter des collaborateurs. Il faut simplement entrer le nom d'utilisateur de la personne que vous voulez ajouter et cliquer sur le bouton "Ajouter".
 
 ## Les commandes
-### Git merge:
+#### Git merge:
 Git merge est une commande Git qui permet de fusionner deux branches Git. Cela signifie que vous pouvez prendre le code d'une autre branche et l'ajouter à votre branche actuelle. Cela peut être utile lorsque vous voulez fusionner le travail de plusieurs personnes sur différentes branches.
 
-# Git add:
+#### Git add:
 Git add est une commande Git qui permet d'ajouter des fichiers à un dépôt Git. Cela signifie que vous pouvez prendre des fichiers de votre ordinateur et les ajouter au code source d'un projet. Git add peut être utilisé pour ajouter des fichiers à un commit ou pour ajouter des fichiers à une branche.
 
-# Git push:
+#### Git push:
 Git push est une commande Git qui permet de publier des commits sur un dépôt Git. Cela signifie que vous pouvez prendre le code de votre ordinateur et le mettre en ligne sur un serveur Git. Git push peut être utilisé pour publier des commits sur une branche ou pour publier des commits sur un dépôt.
 
-# Git pull:
+#### Git pull:
 Git pull est une commande Git qui permet de récupérer des commits d'un dépôt Git. Cela signifie que vous pouvez prendre le code d'un serveur Git et le mettre sur votre ordinateur. Git pull peut être utilisé pour récupérer des commits d'une branche ou pour récupérer des commits d'un dépôt.
 
-# Git commit:
+#### Git commit:
 Git commit est une commande Git qui permet de sauvegarder des modifications dans un dépôt Git. Cela signifie que vous pouvez prendre le code d'un projet et le sauvegarder dans un dépôt Git. Git commit peut être utilisé pour sauvegarder des modifications dans une branche ou pour sauvegarder des modifications dans un dépôt.
