@@ -54,7 +54,7 @@ Une fois le dépôt créé, il y a une option pour ajouter des collabonateurs. I
 Pour ajouter un collaborateur sur GitLab :Une fois le projet créé, il y a une option pour ajouter des collaborateurs. Il faut simplement entrer le nom d'utilisateur de la personne que vous voulez ajouter et cliquer sur le bouton "Ajouter".
 
 ## Les commandes
-# Git merge:
+### Git merge:
 Git merge est une commande Git qui permet de fusionner deux branches Git. Cela signifie que vous pouvez prendre le code d'une autre branche et l'ajouter à votre branche actuelle. Cela peut être utile lorsque vous voulez fusionner le travail de plusieurs personnes sur différentes branches.
 
 # Git add:
