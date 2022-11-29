@@ -1,1 +1,1 @@
-Moi, Théo et Sacha avons décidé que c'est Mélène qui s'occupera du cahier de paillasse.
+Le groupe a l'unanimité a  décidé que l'ensemble du groupe doit faire le cahier de paillasse.
