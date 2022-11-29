@@ -54,3 +54,10 @@ Exemple:
 git commit -m "nom du commit"
 git commit -am "nom du commit" (cela va faire la effectuer la commande git add . juste avant)
 ```
+
+### Git status:
+Git status est une commande Git qui permet de voir le status des derniers commits
+
+Exemple:
+```
+git status
